@@ -44,4 +44,4 @@ Ecommerce donde podrás encontrar videojuegos para comprar
 Muchas gracias a mi profesor Alex Marin Mendez y a mi tutor Andres Suarez por la ayuda brindada durante toda la cursada. Sin ellos, este proyecto no habría sido posible. ❤
 ###
 
-[GameStore]() 2022
+[GameStore](https://matiasguaymas-game-store.vercel.app/) 2022
