@@ -23,15 +23,15 @@ Ecommerce donde podrás encontrar videojuegos para comprar
 
 
 ## 🛠️ Tecnologías usadas:
-- #### HTML5
+- HTML5
    - FortAwesome v.6.0.0
-- #### CSS
+- CSS
   - Tailwind CSS v.3.0.23
-- #### JavaScript
+- JavaScript
   - SweetAlert2 v.11.4.4
-- #### React.js v.17.0.2
+- React.js v.17.0.2
   - React-router-dom v.6.2.1
-- #### Firebase v.9.6.7
+- Firebase v.9.6.7
 
 
 
