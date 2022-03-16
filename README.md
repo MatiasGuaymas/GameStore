@@ -4,7 +4,7 @@ Ecommerce donde podrás encontrar videojuegos para comprar
 
 
 ## 🔗 Links:
-[![sitioweb](https://img.shields.io/badge/game_store-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://game-store-two-omega.vercel.app/)
+[![sitioweb](https://img.shields.io/badge/game_store-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://matiasguaymas-game-store.vercel.app/)
 
 
 
